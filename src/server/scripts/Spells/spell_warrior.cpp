@@ -32,7 +32,8 @@
 #include "SpellScript.h"
 
 enum WarriorSpells
-{
+{    
+    SPELL_WARRIOR_BLOODTHIRST                       = 23881,
     SPELL_WARRIOR_BLADESTORM_PERIODIC_WHIRLWIND     = 50622,
     SPELL_WARRIOR_BLOODTHIRST_HEAL                  = 117313,
     SPELL_WARRIOR_CHARGE                            = 34846,
